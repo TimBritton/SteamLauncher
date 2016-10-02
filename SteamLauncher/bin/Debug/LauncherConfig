@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Game>
+    <name>Age of Empires® III: Complete Collection</name>
+    <appId>105450</appId>
+  </Game>
+  <Game>
+    <name>AI War: Fleet Command</name>
+    <appId>40400</appId>
+  </Game>
+  <Game>
+    <name>Auditorium</name>
+    <appId>205870</appId>
+  </Game>
+  <Game>
+    <name>Dota 2</name>
+    <appId>570</appId>
+  </Game>
+  <Game>
+    <name>Killing Floor</name>
+    <appId>1250</appId>
+  </Game>
+  <Game>
+    <name>Mirror's Edge</name>
+    <appId>17410</appId>
+  </Game>
+  <Game>
+    <name>Path of Exile</name>
+    <appId>238960</appId>
+  </Game>
+  <Game>
+    <name>Reus</name>
+    <appId>222730</appId>
+  </Game>
+  <Game>
+    <name>RollerCoaster Tycoon 3: Platinum!</name>
+    <appId>2700</appId>
+  </Game>
+  <Game>
+    <name>Sid Meier's Civilization V</name>
+    <appId>8930</appId>
+  </Game>
+  <Game>
+    <name>SteamVR</name>
+    <appId>250820</appId>
+  </Game>
+  <Game>
+    <name>Team Fortress 2</name>
+    <appId>440</appId>
+  </Game>
+  <Game>
+    <name>The Mighty Quest For Epic Loot</name>
+    <appId>239220</appId>
+  </Game>
+</ArrayOfGame>

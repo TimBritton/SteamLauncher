@@ -1,0 +1,10 @@
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\ClassLibrary1\bin\Release\SteamLauncher.Core.dll
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\ClassLibrary1\bin\Release\SteamLauncher.Core.pdb
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\ClassLibrary1\obj\Release\SteamLauncher.Core.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\ClassLibrary1\obj\Release\SteamLauncher.Core.dll
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\ClassLibrary1\obj\Release\SteamLauncher.Core.pdb
+H:\New folder (3)\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\ClassLibrary1\bin\Release\SteamLauncher.Core.dll
+H:\New folder (3)\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\ClassLibrary1\bin\Release\SteamLauncher.Core.pdb
+H:\New folder (3)\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\ClassLibrary1\obj\Release\SteamLauncher.Core.csprojResolveAssemblyReference.cache
+H:\New folder (3)\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\ClassLibrary1\obj\Release\SteamLauncher.Core.dll
+H:\New folder (3)\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\ClassLibrary1\obj\Release\SteamLauncher.Core.pdb

@@ -1,0 +1,11 @@
+﻿<UserControl
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="SteamLauncher.FolderEntry">
+	<WrapPanel>
+		<TextBox x:Name ="results" Height="Auto" HorizontalAlignment="Stretch" DockPanel.Dock="Right" 
+			Text="{Binding Text, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type UserControl}}}" Width="152" />
+			<Button Margin="0" Padding="0" DockPanel.Dock="Right" Width="16" Click="BrowseFolder" Content="..."/>
+
+	</WrapPanel>
+</UserControl>

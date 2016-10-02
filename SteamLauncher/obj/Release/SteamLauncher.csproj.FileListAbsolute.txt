@@ -1,0 +1,68 @@
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher\SteamLauncher\bin\Release\SteamLauncher.exe.config
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher\SteamLauncher\bin\Release\SteamLauncher.exe.manifest
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher\SteamLauncher\bin\Release\SteamLauncher.application
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher\SteamLauncher\bin\Release\SteamLauncher.exe
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher\SteamLauncher\bin\Release\SteamLauncher.pdb
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher\SteamLauncher\obj\Release\MainWindow.baml
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher\SteamLauncher\obj\Release\Simple Styles.baml
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher\SteamLauncher\obj\Release\App.baml
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher\SteamLauncher\obj\Release\MainWindow.g.cs
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher\SteamLauncher\obj\Release\App.g.cs
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher\SteamLauncher\obj\Release\SteamLauncher_MarkupCompile.cache
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher\SteamLauncher\obj\Release\SteamLauncher.g.resources
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher\SteamLauncher\obj\Release\SteamLauncher.Properties.Resources.resources
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher\SteamLauncher\obj\Release\SteamLauncher.csproj.GenerateResource.Cache
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher\SteamLauncher\obj\Release\SteamLauncher.exe.manifest
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher\SteamLauncher\obj\Release\SteamLauncher.application
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher\SteamLauncher\obj\Release\SteamLauncher.exe
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher\SteamLauncher\obj\Release\SteamLauncher.pdb
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher\SteamLauncher\obj\Release\SteamLauncher.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\SteamLauncher\bin\Release\SteamLauncher.exe.config
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\SteamLauncher\bin\Release\SteamLauncher.exe.manifest
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\SteamLauncher\bin\Release\SteamLauncher.application
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\SteamLauncher\bin\Release\SteamLauncher.exe
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\SteamLauncher\bin\Release\SteamLauncher.pdb
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\SteamLauncher\bin\Release\SteamLauncher.Core.dll
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\SteamLauncher\bin\Release\SteamLauncher.Core.pdb
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\SteamLauncher\obj\Release\SteamLauncher.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\SteamLauncher\obj\Release\FolderEntry.baml
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\SteamLauncher\obj\Release\MainWindow.baml
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\SteamLauncher\obj\Release\Simple Styles.baml
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\SteamLauncher\obj\Release\App.baml
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\SteamLauncher\obj\Release\DirectoryFinder.g.cs
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\SteamLauncher\obj\Release\FolderEntry.g.cs
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\SteamLauncher\obj\Release\MainWindow.g.cs
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\SteamLauncher\obj\Release\App.g.cs
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\SteamLauncher\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\SteamLauncher\obj\Release\SteamLauncher_MarkupCompile.cache
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\SteamLauncher\obj\Release\SteamLauncher_MarkupCompile.lref
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\SteamLauncher\obj\Release\DirectoryFinder.baml
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\SteamLauncher\obj\Release\SteamLauncher.g.resources
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\SteamLauncher\obj\Release\SteamLauncher.Properties.Resources.resources
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\SteamLauncher\obj\Release\SteamLauncher.csproj.GenerateResource.Cache
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\SteamLauncher\obj\Release\SteamLauncher.exe.manifest
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\SteamLauncher\obj\Release\SteamLauncher.application
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\SteamLauncher\obj\Release\SteamLauncher.exe
+C:\Users\Tim\Desktop\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\SteamLauncher\obj\Release\SteamLauncher.pdb
+H:\New folder (3)\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\SteamLauncher\bin\Release\SteamLauncher.exe.config
+H:\New folder (3)\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\SteamLauncher\obj\Release\SteamLauncher.exe
+H:\New folder (3)\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\SteamLauncher\obj\Release\SteamLauncher.pdb
+H:\New folder (3)\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\SteamLauncher\obj\Release\SteamLauncher.csprojResolveAssemblyReference.cache
+H:\New folder (3)\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\SteamLauncher\obj\Release\FolderEntry.baml
+H:\New folder (3)\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\SteamLauncher\obj\Release\MainWindow.baml
+H:\New folder (3)\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\SteamLauncher\obj\Release\Simple Styles.baml
+H:\New folder (3)\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\SteamLauncher\obj\Release\App.baml
+H:\New folder (3)\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\SteamLauncher\obj\Release\DirectoryFinder.g.cs
+H:\New folder (3)\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\SteamLauncher\obj\Release\FolderEntry.g.cs
+H:\New folder (3)\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\SteamLauncher\obj\Release\MainWindow.g.cs
+H:\New folder (3)\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\SteamLauncher\obj\Release\App.g.cs
+H:\New folder (3)\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\SteamLauncher\obj\Release\GeneratedInternalTypeHelper.g.cs
+H:\New folder (3)\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\SteamLauncher\obj\Release\SteamLauncher_MarkupCompile.cache
+H:\New folder (3)\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\SteamLauncher\obj\Release\SteamLauncher_MarkupCompile.lref
+H:\New folder (3)\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\SteamLauncher\obj\Release\DirectoryFinder.baml
+H:\New folder (3)\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\SteamLauncher\obj\Release\SteamLauncher.g.resources
+H:\New folder (3)\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\SteamLauncher\obj\Release\SteamLauncher.Properties.Resources.resources
+H:\New folder (3)\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\SteamLauncher\obj\Release\SteamLauncher.csproj.GenerateResource.Cache
+F:\Users\SteamLauncher\SteamLauncher\bin\Release\SteamLauncher.exe.config
+F:\Users\SteamLauncher\SteamLauncher\obj\Release\SteamLauncher.exe
+F:\Users\SteamLauncher\SteamLauncher\obj\Release\SteamLauncher.pdb
