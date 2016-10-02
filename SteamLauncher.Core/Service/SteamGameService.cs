@@ -148,21 +148,21 @@ namespace SteamLauncher.Core.Service
                         {
                             if (str.Trim().Length > 1)
                             {
-                                if (!Regex.IsMatch(str.Trim(), "name"))
+                                if (!Regex.IsMatch(str.ToLower().Trim(), "name"))
                                 {
                                     name = str.Trim();
                                 }
                             }
                         }
                     }
-                    else if (Regex.IsMatch(line, "appID"))
+                    else if (Regex.IsMatch(line.ToLower(), "appid"))
                     {
                         String[] strs = line.Split('\"');
                         foreach (String str in strs)
                         {
                             if (str.Trim().Length > 1)
                             {
-                                if (!Regex.IsMatch(str.Trim(), "appID"))
+                                if (!Regex.IsMatch(str.ToLower().Trim(), "appid"))
                                 {
                                     Int32.TryParse(str.Trim(), out id);
                                 }
