@@ -66,3 +66,27 @@ H:\New folder (3)\SteamLauncher\SteamLauncher.002\SteamLauncher_Copy1\SteamLaunc
 F:\Users\SteamLauncher\SteamLauncher\bin\Release\SteamLauncher.exe.config
 F:\Users\SteamLauncher\SteamLauncher\obj\Release\SteamLauncher.exe
 F:\Users\SteamLauncher\SteamLauncher\obj\Release\SteamLauncher.pdb
+F:\Users\SteamLauncher\SteamLauncher\obj\Release\SteamLauncher.csprojResolveAssemblyReference.cache
+F:\Users\SteamLauncher\SteamLauncher\obj\Release\FolderEntry.baml
+F:\Users\SteamLauncher\SteamLauncher\obj\Release\MainWindow.baml
+F:\Users\SteamLauncher\SteamLauncher\obj\Release\Simple Styles.baml
+F:\Users\SteamLauncher\SteamLauncher\obj\Release\App.baml
+F:\Users\SteamLauncher\SteamLauncher\obj\Release\DirectoryFinder.g.cs
+F:\Users\SteamLauncher\SteamLauncher\obj\Release\FolderEntry.g.cs
+F:\Users\SteamLauncher\SteamLauncher\obj\Release\MainWindow.g.cs
+F:\Users\SteamLauncher\SteamLauncher\obj\Release\App.g.cs
+F:\Users\SteamLauncher\SteamLauncher\obj\Release\GeneratedInternalTypeHelper.g.cs
+F:\Users\SteamLauncher\SteamLauncher\obj\Release\SteamLauncher_MarkupCompile.cache
+F:\Users\SteamLauncher\SteamLauncher\obj\Release\SteamLauncher_MarkupCompile.lref
+F:\Users\SteamLauncher\SteamLauncher\bin\Release\SteamLauncher.exe.manifest
+F:\Users\SteamLauncher\SteamLauncher\bin\Release\SteamLauncher.application
+F:\Users\SteamLauncher\SteamLauncher\bin\Release\SteamLauncher.exe
+F:\Users\SteamLauncher\SteamLauncher\bin\Release\SteamLauncher.pdb
+F:\Users\SteamLauncher\SteamLauncher\bin\Release\SteamLauncher.Core.dll
+F:\Users\SteamLauncher\SteamLauncher\bin\Release\SteamLauncher.Core.pdb
+F:\Users\SteamLauncher\SteamLauncher\obj\Release\DirectoryFinder.baml
+F:\Users\SteamLauncher\SteamLauncher\obj\Release\SteamLauncher.g.resources
+F:\Users\SteamLauncher\SteamLauncher\obj\Release\SteamLauncher.Properties.Resources.resources
+F:\Users\SteamLauncher\SteamLauncher\obj\Release\SteamLauncher.csproj.GenerateResource.Cache
+F:\Users\SteamLauncher\SteamLauncher\obj\Release\SteamLauncher.exe.manifest
+F:\Users\SteamLauncher\SteamLauncher\obj\Release\SteamLauncher.application

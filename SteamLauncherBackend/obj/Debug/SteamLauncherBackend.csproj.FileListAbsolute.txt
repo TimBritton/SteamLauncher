@@ -1,0 +1,8 @@
+F:\Users\SteamLauncher\SteamLauncherBackend\bin\Debug\SteamLauncherBackend.exe.config
+F:\Users\SteamLauncher\SteamLauncherBackend\bin\Debug\SteamLauncherBackend.exe
+F:\Users\SteamLauncher\SteamLauncherBackend\bin\Debug\SteamLauncherBackend.pdb
+F:\Users\SteamLauncher\SteamLauncherBackend\bin\Debug\SteamLauncher.Core.dll
+F:\Users\SteamLauncher\SteamLauncherBackend\bin\Debug\SteamLauncher.Core.pdb
+F:\Users\SteamLauncher\SteamLauncherBackend\obj\Debug\SteamLauncherBackend.csprojResolveAssemblyReference.cache
+F:\Users\SteamLauncher\SteamLauncherBackend\obj\Debug\SteamLauncherBackend.exe
+F:\Users\SteamLauncher\SteamLauncherBackend\obj\Debug\SteamLauncherBackend.pdb

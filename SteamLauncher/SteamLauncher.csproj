@@ -172,7 +172,7 @@
     <Folder Include="Configuration\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary1\SteamLauncher.Core.csproj">
+    <ProjectReference Include="..\SteamLauncher.Core\SteamLauncher.Core.csproj">
       <Project>{dfb20fcc-f4a1-4e14-a929-392a5ed63fca}</Project>
       <Name>SteamLauncher.Core</Name>
     </ProjectReference>

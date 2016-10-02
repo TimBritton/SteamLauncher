@@ -6,23 +6,25 @@ using System.Threading.Tasks;
 using System.Diagnostics;
 using System.Collections;
 using System.Xml.Serialization;
+using System.Runtime.Serialization;
 
 namespace SteamLauncher.Core
 {
+  [DataContract]
   public class Game : IComparable<Game>
     {
 
       public Game() { }
       private string _name;
-       [XmlElement("name")]
+      [DataMember]
       public string Name
       {
           get { return _name; }
           set { _name = value; }
       }
       private int _id;
-      [XmlElement("appId")]
-      public int Id
+        [DataMember]
+        public int Id
       {
           get { return _id; }
           set { _id = value; }
@@ -46,7 +48,10 @@ namespace SteamLauncher.Core
       }
 
 
-
+        public String toString()
+        {
+            return "Name:["+_name+"] Id:["+_id+"]";
+        }
 
       public int CompareTo(Game other)
       {

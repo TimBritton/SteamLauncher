@@ -42,26 +42,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SteamLauncher.exe" size="42496">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SteamLauncher.exe" size="41984">
       <assemblyIdentity name="SteamLauncher" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>YX4rXUChTOtpT/ueboGdXZGMT5vbVkPq+IRCk2uA630=</dsig:DigestValue>
+        <dsig:DigestValue>hwtIG9BeVFiudkxsSaBhwaE7DbFzZrMvvf8z6t3wdl0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SteamLauncher.Core.dll" size="7168">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SteamLauncher.Core.dll" size="10240">
       <assemblyIdentity name="SteamLauncher.Core" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>/a+ZQxWyHbuJHV2YHFkHBGiQbPksjiUvkE5asMwRI9g=</dsig:DigestValue>
+        <dsig:DigestValue>R7S3gBb3PD8BmsDLRWG93UWeHXrcF+oAb9yQ8T6crMk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

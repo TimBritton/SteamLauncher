@@ -1,58 +1,194 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LauncherConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SteamDirectory>C:\Program Files (x86)\Steam\SteamApps</SteamDirectory>
+  <SteamDirectory>F:\SteamLibrary\SteamApps</SteamDirectory>
   <Games>
     <Game>
-      <name>Age of Empires® III: Complete Collection</name>
-      <appId>105450</appId>
+      <Name>Age of Empires® III: Complete Collection</Name>
+      <Id>105450</Id>
     </Game>
     <Game>
-      <name>AI War: Fleet Command</name>
-      <appId>40400</appId>
+      <Name>Age of Mythology: Extended Edition</Name>
+      <Id>266840</Id>
     </Game>
     <Game>
-      <name>Auditorium</name>
-      <appId>205870</appId>
+      <Name>Awesomenauts</Name>
+      <Id>204300</Id>
     </Game>
     <Game>
-      <name>Dota 2</name>
-      <appId>570</appId>
+      <Name>Banished</Name>
+      <Id>242920</Id>
     </Game>
     <Game>
-      <name>Killing Floor</name>
-      <appId>1250</appId>
+      <Name>Counter-Strike: Global Offensive</Name>
+      <Id>730</Id>
     </Game>
     <Game>
-      <name>Mirror's Edge</name>
-      <appId>17410</appId>
+      <Name>Crypt of the NecroDancer</Name>
+      <Id>247080</Id>
     </Game>
     <Game>
-      <name>Path of Exile</name>
-      <appId>238960</appId>
+      <Name>Dota 2</Name>
+      <Id>570</Id>
     </Game>
     <Game>
-      <name>Reus</name>
-      <appId>222730</appId>
+      <Name>Dungeon Defenders Eternity</Name>
+      <Id>302270</Id>
     </Game>
     <Game>
-      <name>RollerCoaster Tycoon 3: Platinum!</name>
-      <appId>2700</appId>
+      <Name>Dungeon of the Endless</Name>
+      <Id>249050</Id>
     </Game>
     <Game>
-      <name>Sid Meier's Civilization V</name>
-      <appId>8930</appId>
+      <Name>Endless Legend</Name>
+      <Id>289130</Id>
     </Game>
     <Game>
-      <name>SteamVR</name>
-      <appId>250820</appId>
+      <Name>Endless Space</Name>
+      <Id>208140</Id>
     </Game>
     <Game>
-      <name>Team Fortress 2</name>
-      <appId>440</appId>
+      <Name>Evolve Stage 2</Name>
+      <Id>273350</Id>
     </Game>
     <Game>
-      <name>The Mighty Quest For Epic Loot</name>
-      <appId>239220</appId>
+      <Name>Fortune Summoners: Secret of the Elemental Stone</Name>
+      <Id>203510</Id>
+    </Game>
+    <Game>
+      <Name>Frozen Synapse</Name>
+      <Id>98200</Id>
+    </Game>
+    <Game>
+      <Name>Gauntlet™</Name>
+      <Id>258970</Id>
+    </Game>
+    <Game>
+      <Name>Grim Dawn</Name>
+      <Id>219990</Id>
+    </Game>
+    <Game>
+      <Name>Guns of Icarus Online</Name>
+      <Id>209080</Id>
+    </Game>
+    <Game>
+      <Name>Half Minute Hero: Super Mega Neo Climax Ultimate Boy</Name>
+      <Id>214830</Id>
+    </Game>
+    <Game>
+      <Name>Heroes &amp; Generals</Name>
+      <Id>227940</Id>
+    </Game>
+    <Game>
+      <Name>Infinite Crisis™</Name>
+      <Id>345520</Id>
+    </Game>
+    <Game>
+      <Name>Kerbal Space Program</Name>
+      <Id>220200</Id>
+    </Game>
+    <Game>
+      <Name>Killing Floor</Name>
+      <Id>1250</Id>
+    </Game>
+    <Game>
+      <Name>Killing Floor 2</Name>
+      <Id>232090</Id>
+    </Game>
+    <Game>
+      <Name>Killing Floor 2 - SDK</Name>
+      <Id>232150</Id>
+    </Game>
+    <Game>
+      <Name>LEGO® Worlds</Name>
+      <Id>332310</Id>
+    </Game>
+    <Game>
+      <Name>Life Is Strange™</Name>
+      <Id>319630</Id>
+    </Game>
+    <Game>
+      <Name>Magic Duels</Name>
+      <Id>316010</Id>
+    </Game>
+    <Game>
+      <Name>ORION: Prelude</Name>
+      <Id>104900</Id>
+    </Game>
+    <Game>
+      <Name>Particulars</Name>
+      <Id>259470</Id>
+    </Game>
+    <Game>
+      <Name>PAYDAY 2</Name>
+      <Id>218620</Id>
+    </Game>
+    <Game>
+      <Name>Recettear: An Item Shop's Tale</Name>
+      <Id>70400</Id>
+    </Game>
+    <Game>
+      <Name>Rogue Legacy</Name>
+      <Id>241600</Id>
+    </Game>
+    <Game>
+      <Name>RPG Tycoon</Name>
+      <Id>314240</Id>
+    </Game>
+    <Game>
+      <Name>Sanctum 2</Name>
+      <Id>210770</Id>
+    </Game>
+    <Game>
+      <Name>Sid Meier's Civilization V</Name>
+      <Id>8930</Id>
+    </Game>
+    <Game>
+      <Name>Sid Meier's Civilization V SDK</Name>
+      <Id>16830</Id>
+    </Game>
+    <Game>
+      <Name>Sid Meier's Civilization: Beyond Earth</Name>
+      <Id>65980</Id>
+    </Game>
+    <Game>
+      <Name>Star Wars - Battlefront II</Name>
+      <Id>6060</Id>
+    </Game>
+    <Game>
+      <Name>StarMade Demo</Name>
+      <Id>335180</Id>
+    </Game>
+    <Game>
+      <Name>Supreme Commander 2</Name>
+      <Id>40100</Id>
+    </Game>
+    <Game>
+      <Name>Sword Coast Legends</Name>
+      <Id>325600</Id>
+    </Game>
+    <Game>
+      <Name>The Last Federation</Name>
+      <Id>273070</Id>
+    </Game>
+    <Game>
+      <Name>The Last Remnant</Name>
+      <Id>23310</Id>
+    </Game>
+    <Game>
+      <Name>Transistor</Name>
+      <Id>237930</Id>
+    </Game>
+    <Game>
+      <Name>Tropico 3 - Steam Special Edition</Name>
+      <Id>23490</Id>
+    </Game>
+    <Game>
+      <Name>Tropico 5</Name>
+      <Id>245620</Id>
+    </Game>
+    <Game>
+      <Name>Valkyria Chronicles™</Name>
+      <Id>294860</Id>
     </Game>
   </Games>
 </LauncherConfig>
